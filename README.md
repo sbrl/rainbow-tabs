@@ -15,3 +15,11 @@ apm install rainbow-tabs-evolved
 If you want more extensions supported, or want to override any of the current colours, please feel free to make a pull request.
 
 The file you probably want to edit is [styles/rainbow-tabs.less](https://github.com/sbrl/rainbow-tabs/blob/master/styles/rainbow-tabs.less). Please keep the file extensions in alphabetical order :smiley_cat:
+
+### Publishing
+When publishing a new release, this is done via the `apm publish` command on the terminal like so:
+
+```bash
+apm publish 2.6.2 # Publish an explicit version number
+apm publish minor # Make a new minor release
+```
