@@ -1,14 +1,14 @@
 {
-  "name": "rainbow-tabs",
+  "name": "rainbow-tabs-evolved",
   "main": "./lib/rainbow-tabs",
-  "version": "2.5.1",
-  "description": "Adds color to the text of atom tabs, according to file extension (e.g. JS tabs are yellow)",
+  "version": "2.6",
+  "description": "Adds color to the text of atom tabs, according to file extension (e.g. JS tabs are yellow). Forked from  graemeboy/rainbow-tabs due to inactivity.",
   "keywords": [
     "tabs",
     "color",
     "extension"
   ],
-  "repository": "https://github.com/graemeboy/rainbow-tabs",
+  "repository": "https://github.com/sbrl/rainbow-tabs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
