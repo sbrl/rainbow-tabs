@@ -8,7 +8,7 @@
     "color",
     "extension"
   ],
-  "repository": "https://github.com/sbrl/rainbow-tabs",
+  "repository": "https://github.com/sbrl/rainbow-tabs-evolved",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
