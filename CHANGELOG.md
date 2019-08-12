@@ -1,4 +1,9 @@
-# 2.7.5 - Oops
+## 2.7.6
+ - [extension] .bib
+ - [extension] .tex
+ - [extension] .bst
+
+## 2.7.5 - Oops
  - Erm oops, I've been forgetting to keep this changelog up-to-date....
  - [extension] .toml
 
