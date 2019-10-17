@@ -1,3 +1,7 @@
+## 2.7.9
+ - [file] Cargo.toml
+ - [file] Cargo.lock
+
 ## 2.7.8
  - [extension] .bib
  - [extension] .tex
