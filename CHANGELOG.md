@@ -1,3 +1,9 @@
+## 2.7.11
+ - [file] .hcl
+ - [file] .conf
+ - [file] .properties
+ - [file] .gitmodules
+
 ## 2.7.10
  - [file] .nomad
 
