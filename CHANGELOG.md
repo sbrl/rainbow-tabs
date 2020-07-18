@@ -4,6 +4,8 @@
  - [file] .properties
  - [file] .gitmodules
  - [file] .h
+ - [file] .pde
+ - [file] config
  - [file] Dockerfile
 
 ## 2.7.10
