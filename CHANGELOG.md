@@ -1,15 +1,15 @@
 ## 2.7.11
- - [file] .hcl
- - [file] .conf
- - [file] .properties
- - [file] .gitmodules
- - [file] .h
- - [file] .pde
+ - [extension] .hcl
+ - [extension] .conf
+ - [extension] .properties
+ - [extension] .gitmodules
+ - [extension] .h
+ - [extension] .pde
  - [file] config
  - [file] Dockerfile
 
 ## 2.7.10
- - [file] .nomad
+ - [extension] .nomad
 
 ## 2.7.9
  - [file] Cargo.toml
