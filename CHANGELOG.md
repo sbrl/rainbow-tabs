@@ -3,6 +3,7 @@
  - [file] .conf
  - [file] .properties
  - [file] .gitmodules
+ - [file] Dockerfile
 
 ## 2.7.10
  - [file] .nomad
