@@ -1,3 +1,6 @@
+## 2.7.10
+ - [file] .nomad
+
 ## 2.7.9
  - [file] Cargo.toml
  - [file] Cargo.lock
