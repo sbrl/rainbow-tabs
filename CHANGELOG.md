@@ -1,6 +1,8 @@
+## 2.7.12
+ - [extension] .conf (really this time)
+
 ## 2.7.11
  - [extension] .hcl
- - [extension] .conf
  - [extension] .properties
  - [extension] .gitmodules
  - [extension] .h
