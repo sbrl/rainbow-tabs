@@ -1,3 +1,6 @@
+## 2.7.13
+ - [extension] .plt (i.e. GNUPlot)
+
 ## 2.7.12
  - [extension] .conf (really this time)
 
