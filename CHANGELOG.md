@@ -1,3 +1,6 @@
+## 2.7.14
+ - [extension] .wren ([Wren](https://wren.io/))
+
 ## 2.7.13
  - [extension] .plt (i.e. GNUPlot)
 
